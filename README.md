@@ -1,3 +1,3 @@
 - Hiya, I'm Maia Kuszyk-Whittall.
-- I'm currently interested in practicing programming.
-- I recently (June 2024) completed a year of Electronic and Electrical Engineering study at the University of Birmingham. This is consisted of Electrical engineering, materials, fluid mechanics and energy transfer and working on group design projects during Semester two and the C programming language, engineering mathematics, mechanics and, a individual design project in semester one.
+- I'm currently interested in practicing programming and I am also currently developing a website.
+- I recently (June 2024) completed a year of electronic and Electrical Engineering study at the University of Birmingham. This is consisted of Electrical engineering, materials, fluid mechanics and energy transfer and working on group design projects during semester two and the C programming language, engineering mathematics, mechanics and, a individual design project in semester one.
